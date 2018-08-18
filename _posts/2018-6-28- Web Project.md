@@ -21,7 +21,7 @@ On the Wechat end, students can see their person infomation and their current co
 
 The following picture shows the index of the website.
 
-![0](https://raw.githubusercontent.com/coldsrh233.github.io/master/_posts/image/%23java_spring/0.jpg)
+![0](https://raw.githubusercontent.com/BigExcavator/coldsrh233.github.io/master/_posts/image/%23java_spring/0.jpg)
 
 ## GCD problem
 
