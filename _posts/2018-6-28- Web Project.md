@@ -21,7 +21,7 @@ On the Wechat end, students can see their person infomation and their current co
 
 The following picture shows the index of the website.
 
-![0](https://raw.githubusercontent.com/coldsrh233.github.io/blob/master/_posts/image/%23java_spring/0.jpg)
+![0](https://raw.githubusercontent.com/coldsrh233.github.io/master/_posts/image/%23java_spring/0.jpg)
 
 ## GCD problem
 
@@ -82,7 +82,7 @@ GCD是greatest common divisor的简写，也就是找到两个数的最大公约
 
 ## Algorithm design and analysis process
 
-![0](https://raw.githubusercontent.com/Logos23333/Logos23333.github.io/master/_posts/image/algorithm/0.png)
+![1](https://raw.githubusercontent.com/Logos23333/Logos23333.github.io/master/_posts/image/algorithm/0.png)
 
 # Fundamentals of the Analysis of Algorithm Efficiency
 
