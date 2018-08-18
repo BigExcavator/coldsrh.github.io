@@ -1,22 +1,27 @@
 ---
 published: true
-title: 算法设计课程的算法小结
-category: Algorithm
+title: Online learning website (lighter version of Coursera)
+category: Web Project
 tags: 
-  - 算法
+  - Java Spring
 layout: post
 ---
 
-本篇用于备考大二下的算法设计课程，其中会总结已学到的算法，每个算法会给出思想和伪代码，对于复杂的算法会做出详尽的解释。
-
 # Introduction
 
-## 设计算法的5个要求
-1. Finiteness。terminates after a finite number of steps
-2. Definiteness。rigorously and unambiguously specified
-3. Input。valid inputs are clearly specified
-4. Output。can be proved to produce the correct output given a valid input
-5. Effectiveness。steps are sufficiently simple and basic
+The website contains all of the basic functions an online learning website should have, and could be depolyed by Tomcat in localhost, or in public using SAE platform.
+
+# Functions
+
+On the user end, the users can: Looking up all the courses on the courseList page, seeing the details about a course in the courseDetail page, learning the course on the courseLearing page, commenting on the courses in the comment area. What's more, the users can change their personal information.
+
+On the operator&manager side, the managers can: manage the courses, teachers, course's sections, course's comments. In addition, they can obtain statistical charts and post recommended courses.
+
+On the Wechat end, students can see their person infomation and their current courses.
+
+The following picture shows the index of the website.
+
+![0](https://raw.githubusercontent.com/coldsrh233.github.io/blob/master/_posts/image/%23java_spring/0.jpg)
 
 ## GCD problem
 
