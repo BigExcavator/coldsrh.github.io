@@ -52,10 +52,6 @@ Back End: I got familiar with the Spring MVC development process, and all the de
 
 Deployment: I learned how to publish my website on the SAE platform, it's a almost free and convenient platform for our learners to use.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 44ee501518cc71f3dcd25d9a14e0bed324646aee
 
 
 
