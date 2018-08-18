@@ -9,7 +9,7 @@ subtitle:
 description: wublub dubda
 author: Logos
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -217,7 +217,7 @@ font:
 social:
   #LinkLabel: Link
     GitHub: https://github.com/BigExcavator
-    School: http://www.scut.edu.cn/new
+    School: https://www.usc.edu
 
 
 # Social Links Icons
