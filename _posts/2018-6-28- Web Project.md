@@ -50,7 +50,11 @@ Front End: Even though my main focus is on back end, I still get to know about h
 
 Back End: I got familiar with the Spring MVC development process, and all the details related to it. What's more, I practiced my writting of sql.
 
+<<<<<<< HEAD
 Deployment: I learned how to publish my website on the SAE platform, it's a almost free and convenient platform for our learners to use.
+=======
+![1](https://raw.githubusercontent.com/Logos23333/Logos23333.github.io/master/_posts/image/algorithm/0.png)
+>>>>>>> 3991dafdeff1545245830466941f783b68b5860b
 
 
 
