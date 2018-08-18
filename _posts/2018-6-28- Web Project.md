@@ -31,7 +31,7 @@ The following picture shows the statistical charts page.
 
 ![2](https://raw.githubusercontent.com/BigExcavator/coldsrh233.github.io/master/_posts/image/%23java_spring/2.jpg)
 
-## Structure of the project
+# Structure of the project
 
 The project include two jar packages: ocCommon.jar, ocService.jar. THe ocCommon package include some basic functions like page division, user Authentication. The ocService package include all the operations that related to database.
 
@@ -42,7 +42,7 @@ The following picture shows the package structure of the project.
 ![3](https://raw.githubusercontent.com/BigExcavator/coldsrh233.github.io/master/_posts/image/%23java_spring/3.jpg)
 
 
-### What I learned from the project
+# What I learned from the project
 
 Maven: I learned how to use maven to manage Web project. Including using maven to manage all the related packages, using the pom.xml to import all the direct or indirect dependencies. 
 
@@ -50,11 +50,9 @@ Front End: Even though my main focus is on back end, I still get to know about h
 
 Back End: I got familiar with the Spring MVC development process, and all the details related to it. What's more, I practiced my writting of sql.
 
-<<<<<<< HEAD
 Deployment: I learned how to publish my website on the SAE platform, it's a almost free and convenient platform for our learners to use.
-=======
-![1](https://raw.githubusercontent.com/Logos23333/Logos23333.github.io/master/_posts/image/algorithm/0.png)
->>>>>>> 3991dafdeff1545245830466941f783b68b5860b
+
+
 
 
 
