@@ -6,7 +6,7 @@ tags: [Networking, Algorithm]
 layout: post
 ---
 
-#Introduction
+##Introduction
 This project is a simplified version of a lookup service(such as Google File System). 
 
 In detail, a model of distributed lookup service where a single client issues a (dictionary) key search to a server which in turn searches for the key (and it's associated value) over 3 backend servers. The server facing the client then collects the results from the backend servers, performs additional computation on the results if required, and communicates it to the client in the required format.The monitor also receives the results from the server and will show the same result as the client side do.
