@@ -1,6 +1,6 @@
 
 
-That blog is the recorder of the way I went through during my ability growth
+<font size="4">That blog is the recorder of the way I went through during my ability growth</font><br />
 
 
 Name: Ruohan Sun   
