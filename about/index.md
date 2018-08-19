@@ -1,6 +1,9 @@
-
+-m---
+title: about
+---
 
 # That blog is the recorder of the way I went through during my ability growth
+
 
 Name: Ruohan Sun   
 
